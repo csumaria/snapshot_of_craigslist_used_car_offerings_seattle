@@ -13,4 +13,3 @@ The Jupyter Notebook files in this folder can be followed in the following order
 * Regularization_over_entire_dataset.ipynb
 * Model_for_Subarban_1500.ipynb
 
-Note that some of the results from this analysis can be found in the 'Images' folder.
